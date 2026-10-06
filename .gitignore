@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+__MACOSX/
+._*
+
+# Gradle: keep gradle/wrapper and wrapper scripts
+.gradle/
+build/
+
+# IDE settings
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
